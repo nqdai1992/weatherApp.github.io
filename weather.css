@@ -1,0 +1,47 @@
+body {
+    background-image: url("http://wallpaperlayer.com/img/2015/5/dark-background-pictures-5803-6067-hd-wallpapers.jpg");
+    background-size:100% 640px;
+    background-repeat: no-repeat;
+}
+.container-forecast{
+    text-align: center;
+    padding-top: 10%;
+}
+.name-location{
+    font-family: 'Montserrat','sans-serif';
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 36px;
+}
+.date-of-forecast{
+    color: #ffffff;
+    font-family: 'Athiti', 'sans-serif';
+}
+.status-weather{
+    font-family: 'Arial','sans-serif';
+    color: #ffffff;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.desc-weather{
+    font-family: 'Arial','sans-serif';
+    color: #ffffff;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+.temp-content{
+    font-family: 'Arial','sans-serif';
+    color: #ffffff;
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+.button-convert-to-c,.button-convert-to-f{
+    border-radius: 40%;
+    border: none;
+    margin: 5px;
+    width: 50px;
+    font-weight: bold;
+}
+img{
+    width: 101px;
+}
